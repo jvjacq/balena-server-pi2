@@ -15,4 +15,5 @@ This repository also contains a Youtube link to a video in which we demonstrate 
 [Watch the demo](https://www.youtube.com/watch?v=CSEpNecsTwQ)
 
 **Authors**: James Burness, Jacq van Jaarsveld
+
 **Project**: EEE3095S Practical 6
